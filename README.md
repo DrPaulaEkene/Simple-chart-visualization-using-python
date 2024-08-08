@@ -7,6 +7,6 @@ Since Campylobacter species are a set of highly adaptive bacteria which could be
 Coding was done on Spyder.
 
 Care to contribute?
-You are welcome to contribute by contributing codes, reporting bugs,make suggestions and add documentation
+You are welcome to contribute by contributing codes, reporting bugs,making suggestions and adding documentation
 
 
